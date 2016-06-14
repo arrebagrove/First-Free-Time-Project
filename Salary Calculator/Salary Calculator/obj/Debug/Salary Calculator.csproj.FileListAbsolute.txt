@@ -1,0 +1,11 @@
+h:\documents ssd\visual studio 2013\Projects\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe.config
+h:\documents ssd\visual studio 2013\Projects\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe
+h:\documents ssd\visual studio 2013\Projects\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.pdb
+h:\documents ssd\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.csprojResolveAssemblyReference.cache
+h:\documents ssd\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.MainForm.resources
+h:\documents ssd\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.Properties.Resources.resources
+h:\documents ssd\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.csproj.GenerateResource.Cache
+h:\documents ssd\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.exe
+h:\documents ssd\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.pdb
+h:\documents ssd\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.About.resources
+h:\documents ssd\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.MyResources.resources
